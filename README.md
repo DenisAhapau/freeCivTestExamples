@@ -4,20 +4,20 @@ Tests are fully compatible with the TUIF version 0.1.0.
 
 ## How to Run Tests
 
-1. Clone the project. `cd` to this folder (`cd freeCivLadder`) and from this folder run:
+* Clone the project. `cd` to this folder (`cd freeCivLadder`) and from this folder run:
 
 ```javascript
 npm install
 ```
 
-2. to run all the test suits run:
+* to run all the test suits run:
 
 ```javascript
 npm test
 ```
 
-3. to create an `allure HTML report` copy pom.xml from `./node-modules/jasmine-allure-reporter` to the tests project root folder
-4. run:
+* to create an `allure HTML report` copy pom.xml from `./node-modules/jasmine-allure-reporter` to the tests project root folder
+* run:
 
 ```javascript
 npm run report
