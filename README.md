@@ -4,7 +4,7 @@ Tests are fully compatible with the TUIF version 0.1.0.
 
 ## How to Run Tests
 
-* Clone the project. `cd` to this folder (`cd freeCivLadder`) and from this folder run:
+* Clone the project. `cd` to this folder (`cd freeCivTestExamples`) and from this folder run:
 
 ```javascript
 npm install
